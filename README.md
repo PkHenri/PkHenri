@@ -28,8 +28,9 @@ Minha meta atual é desenvolver minhas habilidades na área de desenvolvimento, 
 </p>
 
 ## Conecte-se
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/PetrickPreite)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/SeuNomeDeUsuario)](https://github.com/PkHenri)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PetrickPreite/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:petrickpreite@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PkHenri)
 
 ## Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
