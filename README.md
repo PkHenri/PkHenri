@@ -33,7 +33,7 @@ Minha meta atual é desenvolver minhas habilidades na área de desenvolvimento, 
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PkHenri)
 
 ## Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PkHenri&show_icons=true&theme=radical)
 
 ## Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PkHenri&layout=compact&theme=radical)
