@@ -1,16 +1,38 @@
-## Hi there 👋
+# Saudações! Me chamo Petrick 🚀
 
-<!--
-**PkHenri/PkHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um entusiasta da tecnologia com sede de aprendizado e paixão por desenvolvimento!
 
-Here are some ideas to get you started:
+## Um Pouco Sobre Mim
+Sou estudante de Informática na ETEC, trilhando o caminho para me tornar um desenvolvedor completo. Minha jornada tecnológica é movida pela vontade de criar soluções inovadoras e pela busca constante por conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focando em aprimorar minhas habilidades em **JavaScript** e **Java**, enquanto também exploro o fascinante mundo do **PHP** e dos **Bancos de Dados Relacionais com MySQL**. Para complementar meus estudos, estou participando do bootcamp **Java Cloud Native do Bradesco**.
+
+Minha meta atual é desenvolver minhas habilidades na área de desenvolvimento, construindo um portfólio robusto que demonstre minha evolução e paixão pela tecnologia.
+
+## O Que Me Move
+- 🛠️ Construir uma carreira de sucesso.
+- 💡 Aprender e aplicar os conceitos de desenvolvimento Cloud Native com Java.
+- 📚 Aprofundar meus conhecimentos.
+- ✨ Criar projetos que unam a teoria aprendida na ETEC com a prática do mercado.
+
+## Ferramentas e Habilidades
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+</p>
+
+## Conecte-se
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/PetrickPreite)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/SeuNomeDeUsuario)](https://github.com/PkHenri)
+
+## Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
+
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical)
